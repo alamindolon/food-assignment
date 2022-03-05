@@ -1,0 +1,133 @@
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+span{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#name-color{
+    color: palevioletred;
+    font-size: 40px;
+}
+.half-width img{
+    width: 460px;
+}
+button{
+    background-color: rgb(233, 15, 167);
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 15px;
+    background-image: linear-gradient(45deg, orange,#793a09,#79092f);
+    
+}
+h3{
+    margin-top: 100px;
+}
+.top-banner{
+    
+}
+section{
+    height: 500px;
+    margin-bottom: 20px;
+}
+.biography{
+    background-image: url("images/shapes/Frame\ 59.jpg");
+}
+.image{
+    width: 30%;
+    display: flex;
+    padding: 1%;
+    
+
+}
+.image img{
+    width: 100%;
+}
+.image-work{
+    display: flex;
+}
+#work{
+    text-align: center;
+}
+#work-p{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+}
+
+.last{
+    
+    background-color: orchid;
+   
+    position:absolute;
+      
+    left:35%;
+    color: white;
+    
+    background-color: rgb(219, 23, 160);
+    
+    background-position: center;
+    padding: 20px 100px;
+    text-align: center;
+    border-radius: 8px;
+    
+   
+  
+    
+}
+#image-control{
+    width: 300px;
+}
+
+    
+    
+}
+.option-item{
+   border: 5px solid red;
+   width: 100%;
+
+}
+.work-sec{
+    width: 100%;
+    height:100%;
+    margin-bottom: 50px ;
+}
+.p{
+    align-items: center;
+   justify-content: center;
+   margin: 30px;
+    
+}
+.option-item{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: absolute;
+    left: 20%;
+    border: 2px solid rgb(211, 167, 86);
+    box-shadow: 10px 10px 20px palevioletred;
+    
+
+
+}
+.option{
+   font-weight: 1000px;
+   font-size: 60px;
+   width: 100%;
+   background-color:aliceblue;
+  
+  
+   text-align: center;
+
+}
